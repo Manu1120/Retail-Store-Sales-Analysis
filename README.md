@@ -52,3 +52,4 @@ Compare city-wise and gender-wise performance
 Enhance customer experience based on rating patterns
 
 **📷 Dashboard Snapshot**
+https://github.com/Manu1120/Retail-Store-Sales-Analysis/blob/main/Snapshot_of_the_dashboard.png
